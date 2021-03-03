@@ -48,9 +48,16 @@ input[type=number] {
     color: rgb(182, 52, 80);
     display: none;      /*display none*/
 }
+.outline-red{
+    border: 1px solid rgb(182, 52, 80);
+}
 .ouline-red:focus{
     outline: rgb(182, 52, 80);
 }
+.ouline-green{
+    border: 1px solid rgb(45, 139, 45);
+}
 .ouline-green:focus{
     outline: rgb(45, 139, 45);
+    
 }
